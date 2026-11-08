@@ -3,6 +3,8 @@ My file for colourblindness glasses:
 
 I will make the onshape and the PCB design here.
 
+Onshape when exporting parts I don't know if they worked properly, so there is the main one, but 3 extra ones which are the three parts that the main one are made out of in case the main one is actually only one of them
+
 Here is a detailed explanation of the essay this idea is based on the competition me and my team used this for!
 
 A quick introduction
@@ -41,6 +43,9 @@ Our final idea is more ambitious. Since we have so many different usages, what i
 
 
 <img width="807" height="467" alt="image" src="https://github.com/user-attachments/assets/88cb426c-35fa-4475-8840-0454e2560ea4" />
+
+<img width="1503" height="747" alt="image" src="https://github.com/user-attachments/assets/9ab336c2-8d19-49c9-b006-97c95e809eb4" />
+
 
 
 
