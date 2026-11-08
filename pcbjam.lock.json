@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-07T22:46:31.178Z",
+  "libs": [],
+  "kicadProjects": {
+    "colourblind glasses.kicad_pro": {
+      "profile": "kicad-default",
+      "profileVersion": 1,
+      "choices": {
+        "layers": 2,
+        "tier": "standard",
+        "thicknessMm": 1.6,
+        "copperOuter": 1,
+        "copperInner": 1,
+        "stackup": null
+      },
+      "generatedAt": "2026-11-07T22:46:31.178Z"
+    }
+  }
+}
